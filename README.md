@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a bank customer is likely to churn (leave the bank) based on their profile and account information. Built with an Artificial Neural Network (ANN) and deployed using Streamlit.
 
-**🚀 Live App:** [customerchurnprediction-pbdyvv9mszdvauultgp6lu.streamlit.app](https://customerchurnprediction-pbdyvv9mszdvauultgp6lu.streamlit.app/)
+**🚀 Live App:** [customerchurnprediction-pbdyvv9mszdvauultgp6lu.streamlit.app](https://customerchurnprediction-qsovfmwwdvqssqr8jxyjtj.streamlit.app/)
 
 ---
 
